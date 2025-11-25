@@ -24,8 +24,9 @@ A simple and fun **Click Speed Game** built with **React** and **React Router**,
 
 ## Execution
 
-- npm i         # Installs all project dependencies listed in package.json into the node_modules folder.
-- npm run dev   # For React/Vite/Next projects, it starts a local server.
+- `npm i` – Installs all project dependencies listed in `package.json` into the `node_modules` folder.  
+- `npm run dev` – Starts the local development server (React/Vite/Next).
+
 
 ---
 
