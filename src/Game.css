@@ -1,0 +1,54 @@
+body {
+  background: #0d0d0d;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 40px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 12px;
+  width: 250px;
+  border: 2px solid #1e3cff;
+  background: #000;
+  color: white;
+  border-radius: 6px;
+  margin-bottom: 25px;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 12px 25px;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.start-btn {
+  background: #0023ff;
+  color: white;
+}
+
+.click-btn {
+  background: #008f00;
+  color: white;
+}
+
+.score-btn {
+  background: #ff9800;
+  color: white;
+  margin-top: 25px;
+}

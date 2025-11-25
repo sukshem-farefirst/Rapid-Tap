@@ -1,0 +1,51 @@
+.score-container {
+  background: #0f0f0f;
+  min-height: 100vh;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.score-container h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.table-box {
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.score-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 20px;
+}
+
+.score-table thead tr {
+  background: blue;
+  color: white;
+  font-weight: bold;
+}
+
+.score-table th,
+.score-table td {
+  padding: 15px;
+}
+
+.score-table{
+  background: #ffffff;
+  color: black;
+}
+
+.back-link {
+  margin-top: 10px;
+  display: block;
+  font-size: 18px;
+  color: #00aaff;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
