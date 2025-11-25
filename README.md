@@ -22,24 +22,10 @@ A simple and fun **Click Speed Game** built with **React** and **React Router**,
 
 ---
 
-## Getting Started
+## Execution
 
-First, run the development server:
-
-```bash
-npm run dev
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
----
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [React.js Documentation](https://legacy.reactjs.org/docs/getting-started.html) - learn about React.js features.
-- [Learn React.js](https://legacy.reactjs.org/tutorial/tutorial.html) - an interactive React.js tutorial.
+- npm i         # Installs all project dependencies listed in package.json into the node_modules folder.
+- npm run dev   # For React/Vite/Next projects, it starts a local server.
 
 ---
 
